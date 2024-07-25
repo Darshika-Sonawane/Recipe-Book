@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <SuprSendInbox 
         theme={{ bell: { color: '#ff0056'}}}
-        workspaceKey="your_workspace_key"
+        workspaceKey="0aDAsNbfAqlpzLQjCHD0"
         subscriberId="your_subscriber_id"
         distinctId="your_distinct_id"
       />
